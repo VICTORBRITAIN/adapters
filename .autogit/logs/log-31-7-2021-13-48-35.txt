@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Tue Aug 31 2021 13:48:35 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* .metals/metals.h2.db
+* .metals/metals.lock.db
+* .vscode/settings.json
+
+
+Created files:
+* .vscode/c_cpp_properties.json
+
+
+Deleted files:
+
+
+Renamed files:
